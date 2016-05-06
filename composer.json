@@ -1,0 +1,16 @@
+{
+    "name": "zendframework/skeleton-application",
+    "description": "Zend Application",
+    "license": "Apache 2.0",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.zendframework.com/"
+        }],
+    "require": {
+        "zendframework/zendframework": "2.5.*",
+        "zendframework/zftool": "dev-master",
+        "zendframework/zend-developer-tools": "dev-master",
+        "zendframework/zend-ldap" : "2.5.*"
+    }
+}
